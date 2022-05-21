@@ -1,6 +1,6 @@
 # Flight2
-##Introduction
+# Introduction
 This project is centered on Home delivery of items to the user such as clothes
 
-#Contributors
+# Contributors
 Sammy Flavius Edith Sonia Grace 
